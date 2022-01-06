@@ -1,3 +1,11 @@
+.form-container-mail-sent{
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  width: 300px;
+  justify-items: center;
+}
+
+
 .email-image {
   width: 132px;
   height: 132px;
@@ -25,4 +33,5 @@
   color: var(--hospital-green);
   text-decoration: none;
 }
+
 

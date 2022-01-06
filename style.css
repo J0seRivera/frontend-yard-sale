@@ -26,7 +26,6 @@ body{
   display: grid;
   grid-template-rows: auto 1fr auto;
   width: 300px;
-  justify-items: center;
 }
 
 .logo {
@@ -69,8 +68,9 @@ body{
   height: 30px;
   font-size: var(--md);
   padding: 6px;
-  margin-bottom: 12px;
+  margin-bottom: 22px;
 }
+
 .primary-button {
   background-color: var(--hospital-green);
   border-radius: 8px;
